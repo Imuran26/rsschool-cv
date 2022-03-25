@@ -7,7 +7,9 @@
 
 ***
 ### Briefly about myself:
-
+Currently I am a 4th year student at the North Caucasian Federal University majoring in Applied Informatics. 
+In my free time I study English, play the guitar and love listening to music.
+I am currently taking a course at RS-School and I hope that the school will help me realize my aspirations.
 ***
 ### Skills and proficiency:
 * Html, CSS3
