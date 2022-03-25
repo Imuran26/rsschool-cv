@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Imuran26.github.io/rsschool-cv/cv
