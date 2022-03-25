@@ -4,6 +4,7 @@
 
 **E-mail:** hapsirokov91@mail.ru
 **Telegram:** [ImrKhaps](https://t.me/ImrKhaps)
+**Discord:** frostaill#3032
 
 ***
 ### Briefly about myself:
@@ -48,7 +49,7 @@ function squareDigits(num){
 ### Education:
 * **North-Caucasus Federal University | Stavropol, Russia**
 *Bachelor’s program (Applied Informatics in Economics major)* | *diploma expected 2022* 
-* HTML and CSS course on the stepik.com (completed)
+* HTML and CSS free course on the stepik.com (completed)
 * RS Schools course «JavaScript/Front-end. Stage 1» (in progress)
 
 ### Languages:
