@@ -2,23 +2,26 @@
 ## Junior Frontend developer
 ### Contact information
 
-**E-mail:** hapsirokov91@mail.ru
-**Telegram:** [ImrKhaps](https://t.me/ImrKhaps)
-**Discord:** frostaill#3032
+**E-mail:** hapsirokov91@mail.ru  
+**Telegram:** [ImrKhaps](https://t.me/ImrKhaps)  
+**Discord:** frostaill#3032  
 
 ***
 ### Briefly about myself:
 Currently I am a 4th year student at the North Caucasian Federal University majoring in Applied Informatics. 
 In my free time I study English, play the guitar and love listening to music.
 I am currently taking a course at RS-School and I hope that the school will help me realize my aspirations.
+
 ***
 ### Skills and proficiency:
 * Html, CSS3
 * Javascript basics
 * Git/GitHub basics
 * VS Code
+
 ***
 ### Code example:
+
 "Square Every Digit" Kata from Codewars. 
 
 #### Description:   
@@ -47,8 +50,8 @@ function squareDigits(num){
 ```
 ***
 ### Education:
-* **North-Caucasus Federal University | Stavropol, Russia**
-*Bachelor’s program (Applied Informatics in Economics major)* | *diploma expected 2022* 
+* **North\-Caucasus Federal University, Stavropol, Russia.**
+Bachelor’s program (Applied Informatics in Economics major). Diploma expected Jule 2022
 * HTML and CSS free course on the stepik.com (completed)
 * RS Schools course «JavaScript/Front-end. Stage 1» (in progress)
 
