@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+        <h1><a href="https://imuran26.github.io/rsschool-cv/">rsschool-cv</a></h1>
+        
+  
+        <h1 id="imran-khapsirokov">Imran Khapsirokov</h1>
+  <h2 id="junior-frontend-developer">Junior Frontend developer</h2>
+  <h3 id="contact-information">Contact information</h3>
+  
+  <p><strong>E-mail:</strong> hapsirokov91@mail.ru<br />
+  <strong>Telegram:</strong> <a href="https://t.me/ImrKhaps">ImrKhaps</a><br />
+  <strong>Discord:</strong> frostaill#3032</p>
+  
+  <hr />
+  <h3 id="briefly-about-myself">Briefly about myself:</h3>
+  <p>Currently I am a 4th year student at the North Caucasian Federal University majoring in Applied Informatics. 
+  In my free time I study English, play the guitar and love listening to music.
+  I am currently taking a course at RS-School and I hope that the school will help me realize my aspirations.</p>
+  
+  <hr />
+  <h3 id="skills-and-proficiency">Skills and proficiency:</h3>
+  <ul>
+    <li>Html, CSS3</li>
+    <li>Javascript basics</li>
+    <li>Git/GitHub basics</li>
+    <li>VS Code</li>
+  </ul>
+  
+  <hr />
+  <h3 id="code-example">Code example:</h3>
+  
+  <p>“Square Every Digit” Kata from Codewars.</p>
+  
+  <h4 id="description">Description:</h4>
+  
+  <p><em>Welcome. In this kata, you are asked to square every digit of a number and concatenate them.</em></p>
+  
+  <p><em>For example, if we run 9119 through the function, 811181 will come out, because 92 is 81 and 12 is 1.</em></p>
+  
+  <p><em>Note: The function accepts an integer and returns an integer</em>.</p>
+  
+  <h4 id="solution">Solution:</h4>
+  <p>
+    function squareDigits(num){
+        let strDigits = num.toString().split('');
+        let digits = strDigits.map(Number);
+        let arr = [];
+        let squareDigit = 0;
+        for(let i = 0; i < strDigits.length; i++){
+          squareDigit = digits[i] ** 2;
+          arr.push(squareDigit);
+        }
+        let digitJoin = arr.join('');
+        let answer = Number(digitJoin);
+        return answer;
+    }
+  </p>
+  <hr />
+  <h3 id="education">Education:</h3>
+  <ul>
+    <li><strong>North-Caucasus Federal University, Stavropol, Russia.</strong>
+  Bachelor’s program (Applied Informatics in Economics major). Diploma expected Jule 2022</li>
+    <li>HTML and CSS free course on the stepik.com (completed)</li>
+    <li>RS Schools course «JavaScript/Front-end. Stage 1» (in progress)</li>
+  </ul>
+  
+  <h3 id="languages">Languages:</h3>
+  <ul>
+    <li>English - Intermediate/Upper-intermediate (“C1 Advanced” level according to EFset. <a href="https://www.efset.org/cert/U7nSCA">My certificate</a>.)</li>
+    <li>Russian - Native</li>
+    <li>Circassian - Native</li>
+  </ul>
+
+      </div>
+</body>
+</html>
