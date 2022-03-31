@@ -1,1 +1,1 @@
-https://Imuran26.github.io/rsschool-cv/cv
+https://Imuran26.github.io/rsschool-cv/
